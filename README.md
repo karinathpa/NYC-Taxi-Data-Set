@@ -16,5 +16,5 @@ Insights:
 Goal:
 - Enhance taxi dispatch efficiency, provide valuable data for policy-makers and urban planners, and contribute to a more thorough understanding of urban mobility patterns in New York City.
 
-<img width="1706" height="1156" alt="image" src="https://github.com/user-attachments/assets/cfdfb3ec-2b0d-4926-9fed-6883722ce78c" />
-<img width="1962" height="1132" alt="image" src="https://github.com/user-attachments/assets/fd9df0fe-a3ba-4577-b6a4-8ba00786595d" />
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/cfdfb3ec-2b0d-4926-9fed-6883722ce78c" />
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/fd9df0fe-a3ba-4577-b6a4-8ba00786595d" />
